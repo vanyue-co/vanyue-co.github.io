@@ -1,0 +1,437 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"proj",
+				"project_queue	(application.html.erb)"
+			],
+			[
+				"curr",
+				"current_user	(application.html.erb)"
+			],
+			[
+				"projects",
+				"projects_queue	(user.rb)"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"acts_",
+				"acts_as_commentable_with_threading	(Gemfile)"
+			],
+			[
+				"discu",
+				"discussion_id	(_discussion.html.erb)"
+			],
+			[
+				"gener",
+				"general_discussion	(projects_controller.rb)"
+			],
+			[
+				"curre",
+				"current_user"
+			],
+			[
+				"dic",
+				"discussions"
+			],
+			[
+				"bel",
+				"belongs_to	(comment.rb)"
+			],
+			[
+				"message",
+				"messageboard	(show.html.erb)"
+			],
+			[
+				"Message",
+				"messageboard"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "contact.html",
+			"settings":
+			{
+				"buffer_size": 3741,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2104,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "product.html",
+			"settings":
+			{
+				"buffer_size": 2517,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "about.html",
+			"settings":
+			{
+				"buffer_size": 2129,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 439.0,
+		"last_filter": "inden",
+		"selected_items":
+		[
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 624.0
+	},
+	"console":
+	{
+		"height": 186.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/ChengYu/Documents/Vanyue-website"
+	],
+	"file_history":
+	[
+		"/C/Ignite/web-client/app/views/users/_project_queue.html.erb",
+		"/C/Ignite/web-client/db/migrate/20160907151151_create_queued_projects.rb",
+		"/C/Ignite/web-client/app/models/queued_project.rb",
+		"/C/Ignite/web-client/app/controllers/queued_projects_controller.rb",
+		"/C/Ignite/web-client/test/fixtures/projects_queues.yml",
+		"/C/Ignite/web-client/app/models/project.rb",
+		"/C/Ignite/web-client/app/views/browse/search.html.erb",
+		"/C/Ignite/web-client/app/views/browse/category.html.erb",
+		"/C/Ignite/web-client/app/views/layouts/_header.html.erb",
+		"/C/Ignite/web-client/app/views/browse/landing.html.erb",
+		"/C/Ignite/web-client/app/assets/stylesheets/application.scss",
+		"/C/Ignite/web-client/app/assets/stylesheets/browse.scss",
+		"/C/Ignite/web-client/app/assets/stylesheets/projects.css",
+		"/C/Ignite/web-client/app/assets/stylesheets/account_activations.css",
+		"/C/Ignite/web-client/app/models/comment.rb",
+		"/C/Ignite/web-client/app/controllers/comments_controller.rb",
+		"/C/Ignite/web-client/config/routes.rb",
+		"/C/Ignite/web-client/app/controllers/projects_controller.rb",
+		"/C/Ignite/web-client/app/views/projects/feedback.html.erb",
+		"/C/Ignite/web-client/app/views/projects/gallery.html.erb",
+		"/C/Ignite/web-client/app/views/projects/show.html.erb",
+		"/C/Ignite/web-client/app/views/projects/discussion.html.erb",
+		"/C/Ignite/web-client/app/helpers/application_helper.rb",
+		"/C/Ignite/web-client/app/views/comments/_comment.html.erb",
+		"/C/Ignite/web-client/app/views/comments/_form.html.erb",
+		"/C/Ignite/web-client/app/views/projects/_header.html.erb",
+		"/C/Ignite/web-client/app/views/comments/_reply.html.erb",
+		"/C/Ignite/web-client/app/assets/javascripts/comments.coffee",
+		"/C/Ignite/web-client/Gemfile",
+		"/C/Ignite/web-client/db/schema.rb",
+		"/C/Ignite/web-client/app/controllers/password_resets_controller.rb",
+		"/C/Ignite/web-client/app/views/projects/_discussion.html.erb",
+		"/C/Ignite/web-client/app/controllers/discussions_controller.rb",
+		"/C/Ignite/web-client/app/views/discussions/_comment.html.erb",
+		"/C/Ignite/web-client/db/migrate/20160617024909_add_discussions.rb",
+		"/C/Ignite/web-client/app/models/discussion.rb",
+		"/C/Ignite/web-client/app/views/discussions/_discussion.html.erb",
+		"/C/Ignite/web-client/app/controllers/application_controller.rb",
+		"/C/Ignite/web-client/db/migrate/20160617131535_temp.rb",
+		"/C/Ignite/web-client/app/assets/javascripts/application.js",
+		"/C/Ignite/web-client/app/models/thread.rb",
+		"/C/Ignite/web-client/db/migrate/20160617024909_add_threads.rb",
+		"/C/Ignite/web-client/db/migrate/20160229191907_create_projects.rb",
+		"/C/Ignite/web-client/config/initializers/thredded.rb",
+		"/C/Ignite/web-client/db/migrate/20160617022847_remove_thredded.rb",
+		"/C/Ignite/web-client/app/views/layouts/_messageboard.html.erb",
+		"/C/Ignite/web-client/app/models/user.rb",
+		"/C/Ignite/web-client/app/views/projects/new.html.erb",
+		"/C/Ignite/web-client/app/views/projects/edit.html.erb",
+		"/C/Ignite/web-client/app/views/projects/create.html.erb",
+		"/C/Ignite/web-client/app/views/projects/media_upload.html.erb",
+		"/C/Ignite/web-client/app/controllers/pledges_controller.rb",
+		"/C/Ignite/web-client/app/views/users/edit.html.erb",
+		"/C/Ignite/web-client/app/uploaders/picture_uploader.rb",
+		"/C/Ignite/web-client/app/models/picture.rb",
+		"/C/Ignite/web-client/app/jobs/parser_job.rb"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" </",
+			"%>\n",
+			"users"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "contact.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3741,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3428,
+								3428
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2104,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1178,
+								1178
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 550.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "product.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2517,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2119,
+								2119
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1756.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "about.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2129,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1929,
+								1929
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1071.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 42.0
+	},
+	"input":
+	{
+		"height": 50.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "vanyue-website.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 605.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
